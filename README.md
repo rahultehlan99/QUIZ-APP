@@ -1,2 +1,2 @@
 # QUIZ-APP
-A quiz to choose from options ans shows results at the end.
+A quiz to choose from options and shows results at the end.
