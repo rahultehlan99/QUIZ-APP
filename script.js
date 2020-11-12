@@ -1,12 +1,12 @@
 const quizdata = [
     
     {
-        question:"How old are you?",
-        a:"10",
-        b:"20",
-        c:"30",
-        d:"40",
-       correct:"b",
+        question:"When was Second World War started?",
+        a:"1910",
+        b:"1920",
+        c:"1939",
+        d:"1940",
+       correct:"c",
     },
     {
         question:"Who is the best player?",
