@@ -70,8 +70,6 @@ submitBtn.addEventListener('click' , () => {
 
       const ans = getSelect();
 
-        console.log(ans);
-
       if(ans){
         
         if(ans ===  quizdata[currentquiz].correct)
